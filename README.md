@@ -1,0 +1,1 @@
+# Mining-weighted-sequential-patterns
